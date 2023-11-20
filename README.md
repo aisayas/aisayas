@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Azure Sentinel HoneyPot Lab]</b> (https://github.com/aisayas/LABURL)
+- <b>[Azure Sentinel HoneyPot Lab]</b> ([https://github.com/aisayas/LABURL](https://github.com/aisayas/AzureSentinelLab))
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amaha Isayas! <br/> <a href="https://www.linkedin.com/in/amaha-isayas/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Amaha Isayas! <br/> <a href="https://www.linkedin.com/in/amaha-isayas/">An Aspiring Cybersecurity Professional</a></h1>
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 

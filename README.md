@@ -5,6 +5,7 @@
 - <b>[Azure Sentinel HoneyPot Lab]</b> (https://github.com/aisayas/AzureSentinelLab)
 
 <h2> 📜 Certifications:</h2>  
+
 - <a href= "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y9KKNMUJWN.pdf">TryHackMe: Pre-Security</a> <br/>
 - <a href= "https://www.credly.com/badges/ff8ba18d-7369-4147-b469-164becc45b76?source=linked_in_profile">AWS Partner: Accreditation (Business)</a> 
 <h2> 🤳 Connect with me:</h2>
@@ -13,7 +14,7 @@
 [<img align="left" alt="AmahaIsayas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/amaha-isayas/
-[youtube]: https://www.youtube.com/@amahaisayas
+[youtube]: https://www.youtube.com/@amahaisayas/
 
 
 <!--

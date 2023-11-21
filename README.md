@@ -4,6 +4,10 @@
 
 - <b>[Azure Sentinel HoneyPot Lab]</b> (https://github.com/aisayas/AzureSentinelLab)
 
+<h2> 🏅 Achievements: </h2>
+
+- <a href= "https://cina.gmu.edu/cina-sponsored-students-participate-in-dhs-coes-critical-infrastructure-hackathon/"> Garnered 1st Place in the DHS Centers of Excellence Hackathon </a>
+- <a href= "https://i.imgur.com/uoA89rc.jpg"> Achieved 1st place in the CEC Undergraduate Research and became one of the Keynote Speakers </a>
 <h2> 📜 Certifications:</h2>  
 
 - <a href= "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y9KKNMUJWN.pdf">TryHackMe: Pre-Security</a> <br/>

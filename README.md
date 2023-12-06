@@ -3,7 +3,7 @@
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Azure Sentinel HoneyPot Lab]</b> (https://github.com/aisayas/AzureSentinelLab)
-- <b>[Undergraduate Senior Design: MITRE Cloud DevSecOps]</b>
+<!-- - <b>[Undergraduate Senior Design: MITRE Cloud DevSecOps]</b> -->
 
 <h2> 🏅 Achievements: </h2>
 

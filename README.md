@@ -19,7 +19,7 @@
 [<img align="left" alt="AmahaIsayas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/amaha-isayas/
-<!-- [youtube]: https://www.youtube.com/@amahaisayas/ -->
+[youtube]: https://www.youtube.com/@amahaisayas/
 
 
 <!--
